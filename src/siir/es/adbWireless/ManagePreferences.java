@@ -23,7 +23,9 @@ import android.preference.PreferenceActivity;
 
 public class ManagePreferences extends PreferenceActivity {
 
-
+/** 
+*HEllo world!!!!
+**/
 	@SuppressWarnings("deprecation")
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
